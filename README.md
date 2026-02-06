@@ -18,7 +18,7 @@ Projektet använder:
 ```bash
 
 python -m retro.import /path/to/roms
-´´´
+```
 > **Obs:** ROM-filer ingår inte i repot.
 
 ---
