@@ -9,7 +9,8 @@ Projektet använder:
 - callback som sparar bästa modellen baserat på mean reward
 
 ## Demo / Status
-- Träningsscript: `train.py` (eller `run.py` beroende på vad du använder)
+- Träningsscript: `train.py`
+- Rendering: `run.py` 
 - Loggar hamnar i `tmp/` och TensorBoard i `board/`
 
 ## ROM / gym-retro setup (viktig)
