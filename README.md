@@ -18,7 +18,7 @@ Projektet använder:
 ```bash
 
 python -m retro.import /path/to/roms
-
+´´´
 > **Obs:** ROM-filer ingår inte i repot.
 
 ---
@@ -26,7 +26,7 @@ python -m retro.import /path/to/roms
 ## Krav
 - Python 3.9+ (3.10/3.11 brukar funka bra)
 - Windows/Linux/macOS
-- En NES-ROM av Super Mario Bros (laglig kopia) som krävs av `gym-retro`
+- En NES-ROM av Super Mario Bros, laglig kopia som krävs av `gym-retro`
 
 Bibliotek:
 - `stable-baselines3`
