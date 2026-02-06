@@ -35,6 +35,8 @@ Bibliotek:
 - `numpy`
 - (rekommenderat) `tensorboard`
 
+Räkna med att träna ca 30M steps innan fullgott resultat.
+
 ---
 
 ## Installation
